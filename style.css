@@ -407,3 +407,22 @@ position: absolute;
     justify-content: start;
     margin-top: 2rem;
 }
+
+
+
+/* ==== SUBSCRIBE SECTION ==== */
+
+.subscribe_container {
+    background: var(--color-primary);
+    color: var(--color-white);
+    display: flex;
+    align-items: center;
+    padding: 4rem;
+    height: 20rem;
+    border-radius: 2rem;
+}
+
+.subscribe_text p {
+    margin-top: 1.4rem;
+    width: 80%;
+}
