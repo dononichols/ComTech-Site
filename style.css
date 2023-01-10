@@ -126,7 +126,14 @@ nav {
     top: 0;
     left: 0;
     z-index: 2;
+    
+}
+
+/* on scroll */
+.window-scroll {
     background: var(--color-primary);
+    border-bottom: 1px solid var(--color-white);
+    box-shadow: 0 1rem 1rem var(--color-primary-variant);
 }
 
 .nav_container {
